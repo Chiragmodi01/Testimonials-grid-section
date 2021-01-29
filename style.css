@@ -114,11 +114,14 @@ img{
 }
 
 @media only screen and (max-width: 768px){
-  
+
 #card{
   display: block;
  }
 #item1, #item2, #item3, #item4, #item5{
   margin-bottom: 1.8rem;
-} 
+}
+#item1{
+  background-position-x: 10rem;
+}
 }
